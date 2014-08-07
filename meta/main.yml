@@ -6,7 +6,7 @@ galaxy_info:
   description:         A gulp role for elao symfony standard vagrant box
   company:             elao
   license:             MIT
-  min_ansible_version: 1.6.10
+  min_ansible_version: 1.7.0
   platforms:
     - name: Debian
   versions:
