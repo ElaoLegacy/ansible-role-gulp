@@ -2,6 +2,7 @@
 
 dependencies:
 
+  - { role: elao.base }
   - { role: elao.node }
 
 galaxy_info:
