@@ -1,5 +1,9 @@
 ---
 
+dependencies:
+
+  - { role: elao.node }
+
 galaxy_info:
 
   author:              elao
