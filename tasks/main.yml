@@ -5,7 +5,7 @@
     name={{ item }}
     state=present
     global=yes
-    version={{ version }}
+    version={{ elao_gulp_version }}
   with_items:
     - gulp
   sudo: yes
